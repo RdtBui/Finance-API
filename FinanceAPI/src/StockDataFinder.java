@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.net.URLConnection;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
+import java.util.Random;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -217,39 +218,42 @@ public class StockDataFinder {
 		return std;
 	}
 	
-	public void randomize(int n, ArrayList<Stock> aList) {
-		//@@@@@@@@@@@@@@@@@ this method will take n random samples of stock array list, aList, and updates the main stockList 
-		//@@@@@@@@@@@@@@@@@ with n random samples of aList. Suppose aList is entire list of IT sector companies, if n is 30 then stockList is
-		//@@@@@@@@@@@@@@@@@ updated to 30 random samples of the IT sector input list without repetition.
+	public ArrayList<Stock> randomize(ArrayList<Stock> list, int sampleSize) {
+		Random rand = new Random();
+
+		// create a temporary list for storing the selected element
+		ArrayList<Stock> newList = new ArrayList<>();
+		for	(int i = 0; i < sampleSize; i++) {
+			// take a random index between 0 to size of given list
+			int randomIndex = rand.nextInt(list.size());
+
+			// add element in temporary list
+			newList.add(list.get(randomIndex));
+
+			// remove selected index from original list
+			list.remove(randomIndex);
+		}
+
+		return newList;
 	}
 	
 	public static void main(String[] args) throws IOException {
 		SP500 sp = new SP500();
-		ArrayList<Stock> allITSectorList = sp.getAllInformationTechnologySector();//This array list contains all the stocks from IT sector companies
+		StockDataFinder sdf3 = new StockDataFinder();
+		ArrayList<Stock> allITSectorList = sp.getAllInformationTechnologySector(); //This array list contains all the stocks from IT sector companies
 		
+		ArrayList<Stock> randomSample = sdf3.randomize(allITSectorList, 50);
+
 		System.out.println("=============Content of IT sector array list=============");
-		for(Stock s : allITSectorList) {
+		for(Stock s : randomSample) {
 			//Proof: prints symbol, name, sector from each stock in array list
 			System.out.print(s.getSymbol() + ", "); System.out.print(s.getName() + ", "); System.out.println(s.getSector());
 		}
 		System.out.println();
 		
-		//You can construct a Stock Data Finder by entering an array of symbol String in the parameter, such as:
-		System.out.println("=============Listing of current stockList array list for demonstration purposes=============");
-		String symbol[] = {"AAPL", "GOOG", "TSLA"};
-		StockDataFinder sdf1 = new StockDataFinder(symbol);
-		System.out.println("=============Example of calculating average, median, variance and standard deviation for AAPL, GOOG, and TSLA=============");
-		System.out.println("Average beta raw: " + sdf1.averageBetaRaw());
-		System.out.println("Average beta formatted: " + sdf1.averageBetaFmt());
-		System.out.println("Variance beta raw: " + sdf1.sampleVarianceBetaRaw());
-		System.out.println("Variance beta formatted: " + sdf1.sampleVarianceBetaFmt());
-		System.out.println("Standard deviation beta raw: " + sdf1.sampleStdBetaRaw());
-		System.out.println("Standard deviation beta formatted: " + sdf1.sampleStdBetaFmt());
-		System.out.println("Median beta raw: " + sdf1.medianBetaRaw());
-		
 		//You can also construct a Stock Data Finder by entering an array list of stocks in the parameter, such as:
 		System.out.println("=============Listing of current stockList array list for demonstration purposes=============");
-		StockDataFinder sdf2 = new StockDataFinder(allITSectorList);
+		StockDataFinder sdf2 = new StockDataFinder(randomSample);
 		System.out.println("=============Example of calculating average, median, variance, and standard deviation for all IT sector=============");
 		System.out.println("Average beta raw: " + sdf2.averageBetaRaw());
 		System.out.println("Average beta formatted: " + sdf2.averageBetaFmt());
