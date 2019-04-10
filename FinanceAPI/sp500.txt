@@ -1,505 +1,506 @@
 MMM	3M Company	Industrials
-AOS	A.O. Smith Corp	Industrials
+AOS	A. O. Smith Corporation	Industrials
 ABT	Abbott Laboratories	Health Care
 ABBV	AbbVie Inc.	Health Care
-ACN	Accenture plc	Information Technology
-ATVI	Activision Blizzard	Information Technology
-AYI	Acuity Brands Inc	Industrials
-ADBE	Adobe Systems Inc	Information Technology
-AAP	Advance Auto Parts	Consumer Discretionary
-AMD	Advanced Micro Devices Inc	Information Technology
-AES	AES Corp	Utilities
-AET	Aetna Inc	Health Care
-AMG	Affiliated Managers Group Inc	Financials
-AFL	AFLAC Inc	Financials
-A	Agilent Technologies Inc	Health Care
-APD	Air Products & Chemicals Inc	Materials
-AKAM	Akamai Technologies Inc	Information Technology
-ALK	Alaska Air Group Inc	Industrials
-ALB	Albemarle Corp	Materials
-ARE	Alexandria Real Estate Equities Inc	Real Estate
-ALXN	Alexion Pharmaceuticals	Health Care
-ALGN	Align Technology	Health Care
-ALLE	Allegion	Industrials
-AGN	Allergan, Plc	Health Care
-ADS	Alliance Data Systems	Information Technology
+ABMD	ABIOMED Inc.	Health Care
+ACN	Accenture Plc Class A	Information Technology
+ATVI	Activision Blizzard Inc.	Communication Services
+ADBE	Adobe Inc.	Information Technology
+AAP	Advance Auto Parts Inc.	Consumer Discretionary
+AMD	Advanced Micro Devices Inc.	Information Technology
+AES	AES Corporation	Utilities
+AMG	Affiliated Managers Group Inc.	Financials
+AFL	Aflac Incorporated	Financials
+A	Agilent Technologies Inc.	Health Care
+APD	Air Products and Chemicals Inc.	Materials
+AKAM	Akamai Technologies Inc.	Information Technology
+ALK	Alaska Air Group Inc.	Industrials
+ALB	Albemarle Corporation	Materials
+ARE	Alexandria Real Estate Equities Inc.	Real Estate
+ALXN	Alexion Pharmaceuticals Inc.	Health Care
+ALGN	Align Technology Inc.	Health Care
+ALLE	Allegion PLC	Industrials
+AGN	Allergan plc	Health Care
+ADS	Alliance Data Systems Corporation	Information Technology
 LNT	Alliant Energy Corp	Utilities
-ALL	Allstate Corp	Financials
-GOOGL	Alphabet Inc Class A	Information Technology
-GOOG	Alphabet Inc Class C	Information Technology
+ALL	Allstate Corporation	Financials
+GOOGL	Alphabet Inc. Class A	Communication Services
+GOOG	Alphabet Inc. Class C	Communication Services
 MO	Altria Group Inc	Consumer Staples
 AMZN	Amazon.com Inc.	Consumer Discretionary
-AEE	Ameren Corp	Utilities
-AAL	American Airlines Group	Industrials
-AEP	American Electric Power	Utilities
-AXP	American Express Co	Financials
-AIG	American International Group, Inc.	Financials
-AMT	American Tower Corp A	Real Estate
-AWK	American Water Works Company Inc	Utilities
-AMP	Ameriprise Financial	Financials
-ABC	AmerisourceBergen Corp	Health Care
+AEE	Ameren Corporation	Utilities
+AAL	American Airlines Group Inc.	Industrials
+AEP	American Electric Power Company Inc.	Utilities
+AXP	American Express Company	Financials
+AIG	American International Group Inc.	Financials
+AMT	American Tower Corporation	Real Estate
+AWK	American Water Works Company Inc.	Utilities
+AMP	Ameriprise Financial Inc.	Financials
+ABC	AmerisourceBergen Corporation	Health Care
 AME	AMETEK Inc.	Industrials
 AMGN	Amgen Inc.	Health Care
-APH	Amphenol Corp	Information Technology
-APC	Anadarko Petroleum Corp	Energy
-ADI	Analog Devices, Inc.	Information Technology
-ANDV	Andeavor	Energy
-ANSS	ANSYS	Information Technology
+APH	Amphenol Corporation Class A	Information Technology
+APC	Anadarko Petroleum Corporation	Energy
+ADI	Analog Devices Inc.	Information Technology
+ANSS	ANSYS Inc.	Information Technology
 ANTM	Anthem Inc.	Health Care
 AON	Aon plc	Financials
 APA	Apache Corporation	Energy
-AIV	Apartment Investment & Management	Real Estate
+AIV	Apartment Investment and Management Company Class A	Real Estate
 AAPL	Apple Inc.	Information Technology
 AMAT	Applied Materials Inc.	Information Technology
-APTV	Aptiv Plc	Consumer Discretionary
-ADM	Archer-Daniels-Midland Co	Consumer Staples
+APTV	Aptiv PLC	Consumer Discretionary
+ADM	Archer-Daniels-Midland Company	Consumer Staples
 ARNC	Arconic Inc.	Industrials
+ANET	Arista Networks Inc.	Information Technology
 AJG	Arthur J. Gallagher & Co.	Financials
 AIZ	Assurant Inc.	Financials
-T	AT&T Inc.	Telecommunication Services
+T	AT&T Inc.	Communication Services
+ATO	Atmos Energy Corporation	Utilities
 ADSK	Autodesk Inc.	Information Technology
-ADP	Automatic Data Processing	Information Technology
-AZO	AutoZone Inc	Consumer Discretionary
-AVB	AvalonBay Communities, Inc.	Real Estate
-AVY	Avery Dennison Corp	Materials
-BHGE	Baker Hughes, a GE Company	Energy
-BLL	Ball Corp	Materials
+ADP	Automatic Data Processing Inc.	Information Technology
+AZO	AutoZone Inc.	Consumer Discretionary
+AVB	AvalonBay Communities Inc.	Real Estate
+AVY	Avery Dennison Corporation	Materials
+BHGE	Baker Hughes a GE Company Class A	Energy
+BLL	Ball Corporation	Materials
 BAC	Bank of America Corp	Financials
+BK	Bank of New York Mellon Corporation	Financials
 BAX	Baxter International Inc.	Health Care
 BBT	BB&T Corporation	Financials
-BDX	Becton Dickinson	Health Care
-BRK.B	Berkshire Hathaway	Financials
+BDX	Becton Dickinson and Company	Health Care
+BRK.B	Berkshire Hathaway Inc. Class B	Financials
 BBY	Best Buy Co. Inc.	Consumer Discretionary
 BIIB	Biogen Inc.	Health Care
-BLK	BlackRock	Financials
-HRB	Block H&R	Financials
+BLK	BlackRock Inc.	Financials
 BA	Boeing Company	Industrials
-BKNG	Booking Holdings Inc	Consumer Discretionary
-BWA	BorgWarner	Consumer Discretionary
-BXP	Boston Properties	Real Estate
-BSX	Boston Scientific	Health Care
-BHF	Brighthouse Financial Inc	Financials
-BMY	Bristol-Myers Squibb	Health Care
-AVGO	Broadcom	Information Technology
-BF.B	Brown-Forman Corp.	Consumer Staples
-CHRW	C. H. Robinson Worldwide	Industrials
-CA	CA, Inc.	Information Technology
-COG	Cabot Oil & Gas	Energy
-CDNS	Cadence Design Systems	Information Technology
-CPB	Campbell Soup	Consumer Staples
-COF	Capital One Financial	Financials
+BKNG	Booking Holdings Inc.	Consumer Discretionary
+BWA	BorgWarner Inc.	Consumer Discretionary
+BXP	Boston Properties Inc.	Real Estate
+BSX	Boston Scientific Corporation	Health Care
+BMY	Bristol-Myers Squibb Company	Health Care
+AVGO	Broadcom Inc.	Information Technology
+BR	Broadridge Financial Solutions Inc.	Information Technology
+BF.B	Brown-Forman Corporation Class B	Consumer Staples
+CHRW	C.H. Robinson Worldwide Inc.	Industrials
+COG	Cabot Oil & Gas Corporation	Energy
+CDNS	Cadence Design Systems Inc.	Information Technology
+CPB	Campbell Soup Company	Consumer Staples
+COF	Capital One Financial Corporation	Financials
+CPRI	Capri Holdings Limited	Consumer Discretionary
 CAH	Cardinal Health Inc.	Health Care
-KMX	Carmax Inc	Consumer Discretionary
-CCL	Carnival Corp.	Consumer Discretionary
+KMX	CarMax Inc.	Consumer Discretionary
+CCL	Carnival Corporation	Consumer Discretionary
 CAT	Caterpillar Inc.	Industrials
-CBOE	Cboe Global Markets	Financials
-CBRE	CBRE Group	Real Estate
-CBS	CBS Corp.	Consumer Discretionary
-CELG	Celgene Corp.	Health Care
+CBOE	Cboe Global Markets Inc	Financials
+CBRE	CBRE Group Inc. Class A	Real Estate
+CBS	CBS Corporation Class B	Communication Services
+CE	Celanese Corporation	Materials
+CELG	Celgene Corporation	Health Care
 CNC	Centene Corporation	Health Care
-CNP	CenterPoint Energy	Utilities
-CTL	CenturyLink Inc	Telecommunication Services
-CERN	Cerner	Health Care
-CF	CF Industries Holdings Inc	Materials
+CNP	CenterPoint Energy Inc.	Utilities
+CTL	CenturyLink Inc.	Communication Services
+CERN	Cerner Corporation	Health Care
+CF	CF Industries Holdings Inc.	Materials
 SCHW	Charles Schwab Corporation	Financials
-CHTR	Charter Communications	Consumer Discretionary
-CVX	Chevron Corp.	Energy
-CMG	Chipotle Mexican Grill	Consumer Discretionary
+CHTR	Charter Communications Inc. Class A	Communication Services
+CVX	Chevron Corporation	Energy
+CMG	Chipotle Mexican Grill Inc.	Consumer Discretionary
 CB	Chubb Limited	Financials
-CHD	Church & Dwight	Consumer Staples
-CI	CIGNA Corp.	Health Care
-XEC	Cimarex Energy	Energy
-CINF	Cincinnati Financial	Financials
+CHD	Church & Dwight Co. Inc.	Consumer Staples
+CI	Cigna Corporation	Health Care
+XEC	Cimarex Energy Co.	Energy
+CINF	Cincinnati Financial Corporation	Financials
 CTAS	Cintas Corporation	Industrials
-CSCO	Cisco Systems	Information Technology
+CSCO	Cisco Systems Inc.	Information Technology
 C	Citigroup Inc.	Financials
-CFG	Citizens Financial Group	Financials
-CTXS	Citrix Systems	Information Technology
-CME	CME Group Inc.	Financials
-CMS	CMS Energy	Utilities
-KO	Coca-Cola Company (The)	Consumer Staples
-CTSH	Cognizant Technology Solutions	Information Technology
-CL	Colgate-Palmolive	Consumer Staples
-CMCSA	Comcast Corp.	Consumer Discretionary
-CMA	Comerica Inc.	Financials
-CAG	Conagra Brands	Consumer Staples
-CXO	Concho Resources	Energy
+CFG	Citizens Financial Group Inc.	Financials
+CTXS	Citrix Systems Inc.	Information Technology
+CLX	Clorox Company	Consumer Staples
+CME	CME Group Inc. Class A	Financials
+CMS	CMS Energy Corporation	Utilities
+KO	Coca-Cola Company	Consumer Staples
+CTSH	Cognizant Technology Solutions Corporation Class A	Information Technology
+CL	Colgate-Palmolive Company	Consumer Staples
+CMCSA	Comcast Corporation Class A	Communication Services
+CMA	Comerica Incorporated	Financials
+CAG	Conagra Brands Inc.	Consumer Staples
+CXO	Concho Resources Inc.	Energy
 COP	ConocoPhillips	Energy
-ED	Consolidated Edison	Utilities
-STZ	Constellation Brands	Consumer Staples
-GLW	Corning Inc.	Information Technology
-COST	Costco Wholesale Corp.	Consumer Staples
-COTY	Coty, Inc	Consumer Staples
-CCI	Crown Castle International Corp.	Real Estate
-CSRA	CSRA Inc.	Information Technology
-CSX	CSX Corp.	Industrials
+ED	Consolidated Edison Inc.	Utilities
+STZ	Constellation Brands Inc. Class A	Consumer Staples
+COO	Cooper Companies Inc.	Health Care
+CPRT	Copart Inc.	Industrials
+GLW	Corning Inc	Information Technology
+COST	Costco Wholesale Corporation	Consumer Staples
+COTY	Coty Inc. Class A	Consumer Staples
+CCI	Crown Castle International Corp	Real Estate
+CSX	CSX Corporation	Industrials
 CMI	Cummins Inc.	Industrials
-CVS	CVS Health	Consumer Staples
-DHI	D. R. Horton	Consumer Discretionary
-DHR	Danaher Corp.	Health Care
-DRI	Darden Restaurants	Consumer Discretionary
+CVS	CVS Health Corporation	Health Care
+DHI	D.R. Horton Inc.	Consumer Discretionary
+DHR	Danaher Corporation	Health Care
+DRI	Darden Restaurants Inc.	Consumer Discretionary
 DVA	DaVita Inc.	Health Care
-DE	Deere & Co.	Industrials
+DE	Deere & Company	Industrials
 DAL	Delta Air Lines Inc.	Industrials
-XRAY	Dentsply Sirona	Health Care
-DVN	Devon Energy Corp.	Energy
-DLR	Digital Realty Trust Inc	Real Estate
+XRAY	DENTSPLY SIRONA Inc.	Health Care
+DVN	Devon Energy Corporation	Energy
+FANG	Diamondback Energy Inc.	Energy
+DLR	Digital Realty Trust Inc.	Real Estate
 DFS	Discover Financial Services	Financials
-DISCA	Discovery Inc. Class A	Consumer Discretionary
-DISCK	Discovery Inc. Class C	Consumer Discretionary
-DISH	Dish Network	Consumer Discretionary
-DG	Dollar General	Consumer Discretionary
-DLTR	Dollar Tree	Consumer Discretionary
-D	Dominion Energy	Utilities
-DOV	Dover Corp.	Industrials
-DWDP	DowDuPont	Materials
-DPS	Dr Pepper Snapple Group	Consumer Staples
-DTE	DTE Energy Co.	Utilities
-DUK	Duke Energy	Utilities
-DRE	Duke Realty Corp	Real Estate
-DXC	DXC Technology	Information Technology
-ETFC	E*Trade	Financials
-EMN	Eastman Chemical	Materials
-ETN	Eaton Corporation	Industrials
-EBAY	eBay Inc.	Information Technology
+DISCA	Discovery Inc. Class A	Communication Services
+DISCK	Discovery Inc. Class C	Communication Services
+DISH	DISH Network Corporation Class A	Communication Services
+DG	Dollar General Corporation	Consumer Discretionary
+DLTR	Dollar Tree Inc.	Consumer Discretionary
+D	Dominion Energy Inc	Utilities
+DOV	Dover Corporation	Industrials
+DOW	Dow Inc.	Materials
+DWDP	DowDuPont Inc.	Materials
+DTE	DTE Energy Company	Utilities
+DUK	Duke Energy Corporation	Utilities
+DRE	Duke Realty Corporation	Real Estate
+DXC	DXC Technology Co.	Information Technology
+ETFC	E*TRADE Financial Corporation	Financials
+EMN	Eastman Chemical Company	Materials
+ETN	Eaton Corp. Plc	Industrials
+EBAY	eBay Inc.	Consumer Discretionary
 ECL	Ecolab Inc.	Materials
-EIX	Edison Int'l	Utilities
-EW	Edwards Lifesciences	Health Care
-EA	Electronic Arts	Information Technology
-EMR	Emerson Electric Company	Industrials
-ETR	Entergy Corp.	Utilities
-EVHC	Envision Healthcare	Health Care
-EOG	EOG Resources	Energy
-EQT	EQT Corporation	Energy
+EIX	Edison International	Utilities
+EW	Edwards Lifesciences Corporation	Health Care
+EA	Electronic Arts Inc.	Communication Services
+LLY	Eli Lilly and Company	Health Care
+EMR	Emerson Electric Co.	Industrials
+ETR	Entergy Corporation	Utilities
+EOG	EOG Resources Inc.	Energy
 EFX	Equifax Inc.	Industrials
-EQIX	Equinix	Real Estate
+EQIX	Equinix Inc.	Real Estate
 EQR	Equity Residential	Real Estate
-ESS	Essex Property Trust, Inc.	Real Estate
-EL	Estee Lauder Cos.	Consumer Staples
+ESS	Essex Property Trust Inc.	Real Estate
+EL	Estee Lauder Companies Inc. Class A	Consumer Staples
 RE	Everest Re Group Ltd.	Financials
+EVRG	Evergy Inc.	Utilities
 ES	Eversource Energy	Utilities
-EXC	Exelon Corp.	Utilities
-EXPE	Expedia Inc.	Consumer Discretionary
-EXPD	Expeditors International	Industrials
-ESRX	Express Scripts	Health Care
-EXR	Extra Space Storage	Real Estate
-XOM	Exxon Mobil Corp.	Energy
-FFIV	F5 Networks	Information Technology
-FB	Facebook, Inc.	Information Technology
-FAST	Fastenal Co	Industrials
+EXC	Exelon Corporation	Utilities
+EXPE	Expedia Group Inc.	Consumer Discretionary
+EXPD	Expeditors International of Washington Inc.	Industrials
+EXR	Extra Space Storage Inc.	Real Estate
+XOM	Exxon Mobil Corporation	Energy
+FFIV	F5 Networks Inc.	Information Technology
+FB	Facebook Inc. Class A	Communication Services
+FAST	Fastenal Company	Industrials
 FRT	Federal Realty Investment Trust	Real Estate
 FDX	FedEx Corporation	Industrials
-FIS	Fidelity National Information Services	Information Technology
+FIS	Fidelity National Information Services Inc.	Information Technology
 FITB	Fifth Third Bancorp	Financials
-FE	FirstEnergy Corp	Utilities
-FISV	Fiserv Inc	Information Technology
-FLIR	FLIR Systems	Information Technology
+FRC	First Republic Bank	Financials
+FE	FirstEnergy Corp.	Utilities
+FISV	Fiserv Inc.	Information Technology
+FLT	FleetCor Technologies Inc.	Information Technology
+FLIR	FLIR Systems Inc.	Information Technology
 FLS	Flowserve Corporation	Industrials
-FLR	Fluor Corp.	Industrials
+FLR	Fluor Corporation	Industrials
 FMC	FMC Corporation	Materials
-FL	Foot Locker Inc	Consumer Discretionary
-F	Ford Motor	Consumer Discretionary
-FTV	Fortive Corp	Industrials
-FBHS	Fortune Brands Home & Security	Industrials
-BEN	Franklin Resources	Financials
+FL	Foot Locker Inc.	Consumer Discretionary
+F	Ford Motor Company	Consumer Discretionary
+FTNT	Fortinet Inc.	Information Technology
+FTV	Fortive Corp.	Industrials
+FBHS	Fortune Brands Home & Security Inc.	Industrials
+FOXA	Fox Corporation Class A	Communication Services
+FOX	Fox Corporation Class B	Communication Services
+BEN	Franklin Resources Inc.	Financials
 FCX	Freeport-McMoRan Inc.	Materials
 GPS	Gap Inc.	Consumer Discretionary
 GRMN	Garmin Ltd.	Consumer Discretionary
-IT	Gartner Inc	Information Technology
-GD	General Dynamics	Industrials
-GE	General Electric	Industrials
-GGP	General Growth Properties Inc.	Real Estate
-GIS	General Mills	Consumer Staples
-GM	General Motors	Consumer Discretionary
-GPC	Genuine Parts	Consumer Discretionary
-GILD	Gilead Sciences	Health Care
+IT	Gartner Inc.	Information Technology
+GD	General Dynamics Corporation	Industrials
+GE	General Electric Company	Industrials
+GIS	General Mills Inc.	Consumer Staples
+GM	General Motors Company	Consumer Discretionary
+GPC	Genuine Parts Company	Consumer Discretionary
+GILD	Gilead Sciences Inc.	Health Care
 GPN	Global Payments Inc.	Information Technology
-GS	Goldman Sachs Group	Financials
-GT	Goodyear Tire & Rubber	Consumer Discretionary
-GWW	Grainger (W.W.) Inc.	Industrials
-HAL	Halliburton Co.	Energy
-HBI	Hanesbrands Inc	Consumer Discretionary
-HOG	Harley-Davidson	Consumer Discretionary
-HRS	Harris Corporation	Information Technology
-HIG	Hartford Financial Svc.Gp.	Financials
+GS	Goldman Sachs Group Inc.	Financials
+HRB	H&R Block Inc.	Consumer Discretionary
+HAL	Halliburton Company	Energy
+HBI	Hanesbrands Inc.	Consumer Discretionary
+HOG	Harley-Davidson Inc.	Consumer Discretionary
+HRS	Harris Corporation	Industrials
+HIG	Hartford Financial Services Group Inc.	Financials
 HAS	Hasbro Inc.	Consumer Discretionary
-HCA	HCA Holdings	Health Care
+HCA	HCA Healthcare Inc	Health Care
 HCP	HCP Inc.	Real Estate
-HP	Helmerich & Payne	Energy
-HSIC	Henry Schein	Health Care
+HP	Helmerich & Payne Inc.	Energy
+HSIC	Henry Schein Inc.	Health Care
+HSY	Hershey Company	Consumer Staples
 HES	Hess Corporation	Energy
-HPE	Hewlett Packard Enterprise	Information Technology
+HPE	Hewlett Packard Enterprise Co.	Information Technology
 HLT	Hilton Worldwide Holdings Inc	Consumer Discretionary
-HOLX	Hologic	Health Care
-HD	Home Depot	Consumer Discretionary
-HON	Honeywell Int'l Inc.	Industrials
-HRL	Hormel Foods Corp.	Consumer Staples
-HST	Host Hotels & Resorts	Real Estate
+HFC	HollyFrontier Corporation	Energy
+HOLX	Hologic Inc.	Health Care
+HD	Home Depot Inc.	Consumer Discretionary
+HON	Honeywell International Inc.	Industrials
+HRL	Hormel Foods Corporation	Consumer Staples
+HST	Host Hotels & Resorts Inc.	Real Estate
 HPQ	HP Inc.	Information Technology
 HUM	Humana Inc.	Health Care
-HBAN	Huntington Bancshares	Financials
-HII	Huntington Ingalls Industries	Industrials
-IDXX	IDEXX Laboratories	Health Care
+HBAN	Huntington Bancshares Incorporated	Financials
+HII	Huntington Ingalls Industries Inc.	Industrials
+IDXX	IDEXX Laboratories Inc.	Health Care
 INFO	IHS Markit Ltd.	Industrials
-ITW	Illinois Tool Works	Industrials
-ILMN	Illumina Inc	Health Care
-INCY	Incyte	Health Care
-IR	Ingersoll-Rand PLC	Industrials
-INTC	Intel Corp.	Information Technology
-ICE	Intercontinental Exchange	Financials
-IBM	International Business Machines	Information Technology
-IP	International Paper	Materials
-IPG	Interpublic Group	Consumer Discretionary
-IFF	Intl Flavors & Fragrances	Materials
+ITW	Illinois Tool Works Inc.	Industrials
+ILMN	Illumina Inc.	Health Care
+INCY	Incyte Corporation	Health Care
+IR	Ingersoll-Rand Plc	Industrials
+INTC	Intel Corporation	Information Technology
+ICE	Intercontinental Exchange Inc.	Financials
+IBM	International Business Machines Corporation	Information Technology
+IFF	International Flavors & Fragrances Inc.	Materials
+IP	International Paper Company	Materials
+IPG	Interpublic Group of Companies Inc.	Communication Services
 INTU	Intuit Inc.	Information Technology
 ISRG	Intuitive Surgical Inc.	Health Care
 IVZ	Invesco Ltd.	Financials
-IPGP	IPG Photonics Corp.	Information Technology
-IQV	IQVIA Holdings Inc.	Health Care
-IRM	Iron Mountain Incorporated	Real Estate
-JBHT	J. B. Hunt Transport Services	Industrials
-JEC	Jacobs Engineering Group	Industrials
-SJM	JM Smucker	Consumer Staples
+IPGP	IPG Photonics Corporation	Information Technology
+IQV	IQVIA Holdings Inc	Health Care
+IRM	Iron Mountain Inc.	Real Estate
+JBHT	J.B. Hunt Transport Services Inc.	Industrials
+SJM	J.M. Smucker Company	Consumer Staples
+JKHY	Jack Henry & Associates Inc.	Information Technology
+JEC	Jacobs Engineering Group Inc.	Industrials
+JEF	Jefferies Financial Group Inc.	Financials
 JNJ	Johnson & Johnson	Health Care
-JCI	Johnson Controls International	Industrials
+JCI	Johnson Controls International plc	Industrials
 JPM	JPMorgan Chase & Co.	Financials
-JNPR	Juniper Networks	Information Technology
+JNPR	Juniper Networks Inc.	Information Technology
 KSU	Kansas City Southern	Industrials
-K	Kellogg Co.	Consumer Staples
+K	Kellogg Company	Consumer Staples
 KEY	KeyCorp	Financials
-KMB	Kimberly-Clark	Consumer Staples
-KIM	Kimco Realty	Real Estate
-KMI	Kinder Morgan	Energy
-KLAC	KLA-Tencor Corp.	Information Technology
-KSS	Kohl's Corp.	Consumer Discretionary
-KHC	Kraft Heinz Co	Consumer Staples
+KEYS	Keysight Technologies Inc	Information Technology
+KMB	Kimberly-Clark Corporation	Consumer Staples
+KIM	Kimco Realty Corporation	Real Estate
+KMI	Kinder Morgan Inc Class P	Energy
+KLAC	KLA-Tencor Corporation	Information Technology
+KSS	Kohl's Corporation	Consumer Discretionary
+KHC	Kraft Heinz Company	Consumer Staples
 KR	Kroger Co.	Consumer Staples
 LB	L Brands Inc.	Consumer Discretionary
-LLL	L-3 Communications Holdings	Industrials
-LH	Laboratory Corp. of America Holding	Health Care
-LRCX	Lam Research	Information Technology
-LEG	Leggett & Platt	Consumer Discretionary
-LEN	Lennar Corp.	Consumer Discretionary
-LUK	Leucadia National Corp.	Financials
-LLY	Lilly (Eli) & Co.	Health Care
-LNC	Lincoln National	Financials
+LLL	L3 Technologies Inc	Industrials
+LH	Laboratory Corporation of America Holdings	Health Care
+LRCX	Lam Research Corporation	Information Technology
+LW	Lamb Weston Holdings Inc.	Consumer Staples
+LEG	Leggett & Platt Incorporated	Consumer Discretionary
+LEN	Lennar Corporation Class A	Consumer Discretionary
+LNC	Lincoln National Corporation	Financials
+LIN	Linde plc	Materials
 LKQ	LKQ Corporation	Consumer Discretionary
-LMT	Lockheed Martin Corp.	Industrials
-L	Loews Corp.	Financials
-LOW	Lowe's Cos.	Consumer Discretionary
-LYB	LyondellBasell	Materials
-MTB	M&T Bank Corp.	Financials
-MAC	Macerich	Real Estate
-M	Macy's Inc.	Consumer Discretionary
-MRO	Marathon Oil Corp.	Energy
-MPC	Marathon Petroleum	Energy
-MAR	Marriott Int'l.	Consumer Discretionary
-MMC	Marsh & McLennan	Financials
-MLM	Martin Marietta Materials	Materials
-MAS	Masco Corp.	Industrials
-MA	Mastercard Inc.	Information Technology
+LMT	Lockheed Martin Corporation	Industrials
+L	Loews Corporation	Financials
+LOW	Lowe's Companies Inc.	Consumer Discretionary
+LYB	LyondellBasell Industries NV	Materials
+MTB	M&T Bank Corporation	Financials
+MAC	Macerich Company	Real Estate
+M	Macy's Inc	Consumer Discretionary
+MRO	Marathon Oil Corporation	Energy
+MPC	Marathon Petroleum Corporation	Energy
+MAR	Marriott International Inc. Class A	Consumer Discretionary
+MMC	Marsh & McLennan Companies Inc.	Financials
+MLM	Martin Marietta Materials Inc.	Materials
+MAS	Masco Corporation	Industrials
+MA	Mastercard Incorporated Class A	Information Technology
 MAT	Mattel Inc.	Consumer Discretionary
-MKC	McCormick & Co.	Consumer Staples
-MCD	McDonald's Corp.	Consumer Discretionary
-MCK	McKesson Corp.	Health Care
+MXIM	Maxim Integrated Products Inc.	Information Technology
+MKC	McCormick & Company Incorporated	Consumer Staples
+MCD	McDonald's Corporation	Consumer Discretionary
+MCK	McKesson Corporation	Health Care
 MDT	Medtronic plc	Health Care
-MRK	Merck & Co.	Health Care
+MRK	Merck & Co. Inc.	Health Care
 MET	MetLife Inc.	Financials
-MTD	Mettler Toledo	Health Care
+MTD	Mettler-Toledo International Inc.	Health Care
 MGM	MGM Resorts International	Consumer Discretionary
-KORS	Michael Kors Holdings	Consumer Discretionary
-MCHP	Microchip Technology	Information Technology
-MU	Micron Technology	Information Technology
-MSFT	Microsoft Corp.	Information Technology
-MAA	Mid-America Apartments	Real Estate
-MHK	Mohawk Industries	Consumer Discretionary
-TAP	Molson Coors Brewing Company	Consumer Staples
-MDLZ	Mondelez International	Consumer Staples
-MON	Monsanto Co.	Materials
-MNST	Monster Beverage	Consumer Staples
-MCO	Moody's Corp	Financials
+MCHP	Microchip Technology Incorporated	Information Technology
+MU	Micron Technology Inc.	Information Technology
+MSFT	Microsoft Corporation	Information Technology
+MAA	Mid-America Apartment Communities Inc.	Real Estate
+MHK	Mohawk Industries Inc.	Consumer Discretionary
+TAP	Molson Coors Brewing Company Class B	Consumer Staples
+MDLZ	Mondelez International Inc. Class A	Consumer Staples
+MNST	Monster Beverage Corporation	Consumer Staples
+MCO	Moody's Corporation	Financials
 MS	Morgan Stanley	Financials
+MOS	Mosaic Company	Materials
 MSI	Motorola Solutions Inc.	Information Technology
+MSCI	MSCI Inc. Class A	Financials
 MYL	Mylan N.V.	Health Care
-NDAQ	Nasdaq, Inc.	Financials
+NDAQ	Nasdaq Inc.	Financials
 NOV	National Oilwell Varco Inc.	Energy
-NAVI	Navient	Financials
 NKTR	Nektar Therapeutics	Health Care
-NTAP	NetApp	Information Technology
-NFLX	Netflix Inc.	Information Technology
-NWL	Newell Brands	Consumer Discretionary
-NFX	Newfield Exploration Co	Energy
+NTAP	NetApp Inc.	Information Technology
+NFLX	Netflix Inc.	Communication Services
+NWL	Newell Brands Inc	Consumer Discretionary
 NEM	Newmont Mining Corporation	Materials
-NWSA	News Corp. Class A	Consumer Discretionary
-NWS	News Corp. Class B	Consumer Discretionary
-NEE	NextEra Energy	Utilities
-NLSN	Nielsen Holdings	Industrials
-NKE	Nike	Consumer Discretionary
-NI	NiSource Inc.	Utilities
-NBL	Noble Energy Inc	Energy
-JWN	Nordstrom	Consumer Discretionary
-NSC	Norfolk Southern Corp.	Industrials
-NTRS	Northern Trust Corp.	Financials
-NOC	Northrop Grumman Corp.	Industrials
-NCLH	Norwegian Cruise Line	Consumer Discretionary
-NRG	NRG Energy	Utilities
-NUE	Nucor Corp.	Materials
-NVDA	Nvidia Corporation	Information Technology
-ORLY	O'Reilly Automotive	Consumer Discretionary
-OXY	Occidental Petroleum	Energy
-OMC	Omnicom Group	Consumer Discretionary
-OKE	ONEOK	Energy
-ORCL	Oracle Corp.	Information Technology
-PCAR	PACCAR Inc.	Industrials
+NWSA	News Corporation Class A	Communication Services
+NWS	News Corporation Class B	Communication Services
+NEE	NextEra Energy Inc.	Utilities
+NLSN	Nielsen Holdings Plc	Industrials
+NKE	NIKE Inc. Class B	Consumer Discretionary
+NI	NiSource Inc	Utilities
+NBL	Noble Energy Inc.	Energy
+JWN	Nordstrom Inc.	Consumer Discretionary
+NSC	Norfolk Southern Corporation	Industrials
+NTRS	Northern Trust Corporation	Financials
+NOC	Northrop Grumman Corporation	Industrials
+NCLH	Norwegian Cruise Line Holdings Ltd.	Consumer Discretionary
+NRG	NRG Energy Inc.	Utilities
+NUE	Nucor Corporation	Materials
+NVDA	NVIDIA Corporation	Information Technology
+ORLY	O'Reilly Automotive Inc.	Consumer Discretionary
+OXY	Occidental Petroleum Corporation	Energy
+OMC	Omnicom Group Inc	Communication Services
+OKE	ONEOK Inc.	Energy
+ORCL	Oracle Corporation	Information Technology
+PCAR	PACCAR Inc	Industrials
 PKG	Packaging Corporation of America	Materials
-PH	Parker-Hannifin	Industrials
+PH	Parker-Hannifin Corporation	Industrials
 PAYX	Paychex Inc.	Information Technology
-PYPL	PayPal	Information Technology
-PNR	Pentair Ltd.	Industrials
-PBCT	People's United Financial	Financials
+PYPL	PayPal Holdings Inc	Information Technology
+PNR	Pentair plc	Industrials
+PBCT	People's United Financial Inc.	Financials
 PEP	PepsiCo Inc.	Consumer Staples
-PKI	PerkinElmer	Health Care
-PRGO	Perrigo	Health Care
+PKI	PerkinElmer Inc.	Health Care
+PRGO	Perrigo Co. Plc	Health Care
 PFE	Pfizer Inc.	Health Care
-PCG	PG&E Corp.	Utilities
-PM	Philip Morris International	Consumer Staples
+PM	Philip Morris International Inc.	Consumer Staples
 PSX	Phillips 66	Energy
-PNW	Pinnacle West Capital	Utilities
-PXD	Pioneer Natural Resources	Energy
-PNC	PNC Financial Services	Financials
-RL	Polo Ralph Lauren Corp.	Consumer Discretionary
-PPG	PPG Industries	Materials
-PPL	PPL Corp.	Utilities
-PX	Praxair Inc.	Materials
-PFG	Principal Financial Group	Financials
-PG	Procter & Gamble	Consumer Staples
-PGR	Progressive Corp.	Financials
-PLD	Prologis	Real Estate
-PRU	Prudential Financial	Financials
-PEG	Public Serv. Enterprise Inc.	Utilities
+PNW	Pinnacle West Capital Corporation	Utilities
+PXD	Pioneer Natural Resources Company	Energy
+PNC	PNC Financial Services Group Inc.	Financials
+PPG	PPG Industries Inc.	Materials
+PPL	PPL Corporation	Utilities
+PFG	Principal Financial Group Inc.	Financials
+PG	Procter & Gamble Company	Consumer Staples
+PGR	Progressive Corporation	Financials
+PLD	Prologis Inc.	Real Estate
+PRU	Prudential Financial Inc.	Financials
+PEG	Public Service Enterprise Group Inc	Utilities
 PSA	Public Storage	Real Estate
-PHM	Pulte Homes Inc.	Consumer Discretionary
+PHM	PulteGroup Inc.	Consumer Discretionary
 PVH	PVH Corp.	Consumer Discretionary
-QRVO	Qorvo	Information Technology
-QCOM	QUALCOMM Inc.	Information Technology
+QRVO	Qorvo Inc.	Information Technology
+QCOM	QUALCOMM Incorporated	Information Technology
 PWR	Quanta Services Inc.	Industrials
-DGX	Quest Diagnostics	Health Care
-RRC	Range Resources Corp.	Energy
+DGX	Quest Diagnostics Incorporated	Health Care
+RL	Ralph Lauren Corporation Class A	Consumer Discretionary
 RJF	Raymond James Financial Inc.	Financials
-RTN	Raytheon Co.	Industrials
+RTN	Raytheon Company	Industrials
 O	Realty Income Corporation	Real Estate
 RHT	Red Hat Inc.	Information Technology
 REG	Regency Centers Corporation	Real Estate
-REGN	Regeneron	Health Care
-RF	Regions Financial Corp.	Financials
-RSG	Republic Services Inc	Industrials
-RMD	ResMed	Health Care
-RHI	Robert Half International	Industrials
+REGN	Regeneron Pharmaceuticals Inc.	Health Care
+RF	Regions Financial Corporation	Financials
+RSG	Republic Services Inc.	Industrials
+RMD	ResMed Inc.	Health Care
+RHI	Robert Half International Inc.	Industrials
 ROK	Rockwell Automation Inc.	Industrials
-COL	Rockwell Collins	Industrials
-ROP	Roper Technologies	Industrials
-ROST	Ross Stores	Consumer Discretionary
-RCL	Royal Caribbean Cruises Ltd	Consumer Discretionary
-SPGI	S&P Global, Inc.	Financials
-CRM	Salesforce.com	Information Technology
-SBAC	SBA Communications	Real Estate
-SCG	SCANA Corp	Utilities
-SLB	Schlumberger Ltd.	Energy
-STX	Seagate Technology	Information Technology
-SEE	Sealed Air	Materials
+ROL	Rollins Inc.	Industrials
+ROP	Roper Technologies Inc.	Industrials
+ROST	Ross Stores Inc.	Consumer Discretionary
+RCL	Royal Caribbean Cruises Ltd.	Consumer Discretionary
+SPGI	S&P Global Inc.	Financials
+CRM	salesforce.com inc.	Information Technology
+SBAC	SBA Communications Corp. Class A	Real Estate
+SLB	Schlumberger NV	Energy
+STX	Seagate Technology PLC	Information Technology
+SEE	Sealed Air Corporation	Materials
 SRE	Sempra Energy	Utilities
-SHW	Sherwin-Williams	Materials
-SPG	Simon Property Group Inc	Real Estate
-SWKS	Skyworks Solutions	Information Technology
-SLG	SL Green Realty	Real Estate
-SNA	Snap-On Inc.	Consumer Discretionary
-SO	Southern Co.	Utilities
-LUV	Southwest Airlines	Industrials
-SWK	Stanley Black & Decker	Consumer Discretionary
-SBUX	Starbucks Corp.	Consumer Discretionary
-STT	State Street Corp.	Financials
-SRCL	Stericycle Inc	Industrials
-SYK	Stryker Corp.	Health Care
-STI	SunTrust Banks	Financials
-SIVB	SVB Financial	Financials
-SYMC	Symantec Corp.	Information Technology
+SHW	Sherwin-Williams Company	Materials
+SPG	Simon Property Group Inc.	Real Estate
+SWKS	Skyworks Solutions Inc.	Information Technology
+SLG	SL Green Realty Corp.	Real Estate
+SNA	Snap-on Incorporated	Industrials
+SO	Southern Company	Utilities
+LUV	Southwest Airlines Co.	Industrials
+SWK	Stanley Black & Decker Inc.	Industrials
+SBUX	Starbucks Corporation	Consumer Discretionary
+STT	State Street Corporation	Financials
+SYK	Stryker Corporation	Health Care
+STI	SunTrust Banks Inc.	Financials
+SIVB	SVB Financial Group	Financials
+SYMC	Symantec Corporation	Information Technology
 SYF	Synchrony Financial	Financials
 SNPS	Synopsys Inc.	Information Technology
-SYY	Sysco Corp.	Consumer Staples
+SYY	Sysco Corporation	Consumer Staples
 TROW	T. Rowe Price Group	Financials
-TTWO	Take-Two Interactive	Information Technology
-TPR	Tapestry, Inc.	Consumer Discretionary
-TGT	Target Corp.	Consumer Discretionary
+TTWO	Take-Two Interactive Software Inc.	Communication Services
+TPR	Tapestry Inc.	Consumer Discretionary
+TGT	Target Corporation	Consumer Discretionary
 TEL	TE Connectivity Ltd.	Information Technology
-FTI	TechnipFMC	Energy
-TXN	Texas Instruments	Information Technology
+FTI	TechnipFMC Plc	Energy
+TFX	Teleflex Incorporated	Health Care
+TXN	Texas Instruments Incorporated	Information Technology
 TXT	Textron Inc.	Industrials
-BK	The Bank of New York Mellon Corp.	Financials
-CLX	The Clorox Company	Consumer Staples
-COO	The Cooper Companies	Health Care
-HSY	The Hershey Company	Consumer Staples
-MOS	The Mosaic Company	Materials
-TRV	The Travelers Companies Inc.	Financials
-DIS	The Walt Disney Company	Consumer Discretionary
-TMO	Thermo Fisher Scientific	Health Care
+TMO	Thermo Fisher Scientific Inc.	Health Care
 TIF	Tiffany & Co.	Consumer Discretionary
-TWX	Time Warner Inc.	Consumer Discretionary
-TJX	TJX Companies Inc.	Consumer Discretionary
-TMK	Torchmark Corp.	Financials
-TSS	Total System Services	Information Technology
+TJX	TJX Companies Inc	Consumer Discretionary
+TMK	Torchmark Corporation	Financials
+TSS	Total System Services Inc.	Information Technology
 TSCO	Tractor Supply Company	Consumer Discretionary
-TDG	TransDigm Group	Industrials
-TRIP	TripAdvisor	Consumer Discretionary
-FOXA	Twenty-First Century Fox Class A	Consumer Discretionary
-FOX	Twenty-First Century Fox Class B	Consumer Discretionary
-TSN	Tyson Foods	Consumer Staples
+TDG	TransDigm Group Incorporated	Industrials
+TRV	Travelers Companies Inc.	Financials
+TRIP	TripAdvisor Inc.	Communication Services
+TWTR	Twitter Inc.	Communication Services
+TSN	Tyson Foods Inc. Class A	Consumer Staples
 USB	U.S. Bancorp	Financials
-UDR	UDR Inc	Real Estate
-ULTA	Ulta Beauty	Consumer Discretionary
-UAA	Under Armour Class A	Consumer Discretionary
-UA	Under Armour Class C	Consumer Discretionary
-UNP	Union Pacific	Industrials
-UAL	United Continental Holdings	Industrials
-UNH	United Health Group Inc.	Health Care
-UPS	United Parcel Service	Industrials
-URI	United Rentals, Inc.	Industrials
-UTX	United Technologies	Industrials
-UHS	Universal Health Services, Inc.	Health Care
+CASH_USD	U.S. Dollar	Unassigned
+UDR	UDR Inc.	Real Estate
+ULTA	Ulta Beauty Inc	Consumer Discretionary
+UAA	Under Armour Inc. Class A	Consumer Discretionary
+UA	Under Armour Inc. Class C	Consumer Discretionary
+UNP	Union Pacific Corporation	Industrials
+UAL	United Continental Holdings Inc.	Industrials
+UPS	United Parcel Service Inc. Class B	Industrials
+URI	United Rentals Inc.	Industrials
+UTX	United Technologies Corporation	Industrials
+UNH	UnitedHealth Group Incorporated	Health Care
+UHS	Universal Health Services Inc. Class B	Health Care
 UNM	Unum Group	Financials
-VFC	V.F. Corp.	Consumer Discretionary
-VLO	Valero Energy	Energy
-VAR	Varian Medical Systems	Health Care
-VTR	Ventas Inc	Real Estate
-VRSN	Verisign Inc.	Information Technology
-VRSK	Verisk Analytics	Industrials
-VZ	Verizon Communications	Telecommunication Services
-VRTX	Vertex Pharmaceuticals Inc	Health Care
-VIAB	Viacom Inc.	Consumer Discretionary
-V	Visa Inc.	Information Technology
+VFC	V.F. Corporation	Consumer Discretionary
+VLO	Valero Energy Corporation	Energy
+VAR	Varian Medical Systems Inc.	Health Care
+VTR	Ventas Inc.	Real Estate
+VRSN	VeriSign Inc.	Information Technology
+VRSK	Verisk Analytics Inc	Industrials
+VZ	Verizon Communications Inc.	Communication Services
+VRTX	Vertex Pharmaceuticals Incorporated	Health Care
+VIAB	Viacom Inc. Class B	Communication Services
+V	Visa Inc. Class A	Information Technology
 VNO	Vornado Realty Trust	Real Estate
-VMC	Vulcan Materials	Materials
-WMT	Wal-Mart Stores	Consumer Staples
-WBA	Walgreens Boots Alliance	Consumer Staples
+VMC	Vulcan Materials Company	Materials
+GWW	W.W. Grainger Inc.	Industrials
+WBA	Walgreens Boots Alliance Inc	Consumer Staples
+WMT	Walmart Inc.	Consumer Staples
+DIS	Walt Disney Company	Communication Services
 WM	Waste Management Inc.	Industrials
 WAT	Waters Corporation	Health Care
-WEC	Wec Energy Group Inc	Utilities
-WFC	Wells Fargo	Financials
+WEC	WEC Energy Group Inc	Utilities
+WCG	WellCare Health Plans Inc.	Health Care
+WFC	Wells Fargo & Company	Financials
 WELL	Welltower Inc.	Real Estate
-WDC	Western Digital	Information Technology
-WU	Western Union Co	Information Technology
+WDC	Western Digital Corporation	Information Technology
+WU	Western Union Company	Information Technology
+WAB	Westinghouse Air Brake Technologies Corporation	Industrials
 WRK	WestRock Company	Materials
-WY	Weyerhaeuser Corp.	Real Estate
-WHR	Whirlpool Corp.	Consumer Discretionary
-WMB	Williams Cos.	Energy
-WLTW	Willis Towers Watson	Financials
-WYN	Wyndham Worldwide	Consumer Discretionary
-WYNN	Wynn Resorts Ltd	Consumer Discretionary
-XEL	Xcel Energy Inc	Utilities
-XRX	Xerox Corp.	Information Technology
-XLNX	Xilinx Inc	Information Technology
-XL	XL Capital	Financials
+WY	Weyerhaeuser Company	Real Estate
+WHR	Whirlpool Corporation	Consumer Discretionary
+WMB	Williams Companies Inc.	Energy
+WLTW	Willis Towers Watson Public Limited Company	Financials
+WYNN	Wynn Resorts Limited	Consumer Discretionary
+XEL	Xcel Energy Inc.	Utilities
+XRX	Xerox Corporation	Information Technology
+XLNX	Xilinx Inc.	Information Technology
 XYL	Xylem Inc.	Industrials
-YUM	Yum! Brands Inc	Consumer Discretionary
-ZBH	Zimmer Biomet Holdings	Health Care
-ZION	Zions Bancorp	Financials
-ZTS	Zoetis	Health Care
+YUM	Yum! Brands Inc.	Consumer Discretionary
+ZBH	Zimmer Biomet Holdings Inc.	Health Care
+ZION	Zions Bancorporation N.A.	Financials
+ZTS	Zoetis Inc. Class A	Health Care
